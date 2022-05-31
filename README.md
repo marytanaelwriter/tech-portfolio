@@ -1,4 +1,4 @@
-# Welcome to my tech writing portfolio~
+# Welcome to my tech writing portfolio!
 
 Hello!
 
