@@ -22,3 +22,7 @@
 [Sample 1: Process document](sample-1-overview.md)   
 [Sample 2: Installation guide](sample-2-overview.md)  
 **Sample 3: How-to guide**
+
+## 💌 My socials
+
+[Online CV](https://marytanaelwriter.com/)/ [GitHub](https://github.com/marytanaelwriter)/ [LinkedIn](https://www.linkedin.com/in/marytanaelwriter/)/  [Email](mailto:marytanaelwriter@gmail.com)
