@@ -1,4 +1,4 @@
-## ✨ Mary's Tech Writing Portfolio ✨
+## Mary's Tech Writing Portfolio
 
 Hello!
 
