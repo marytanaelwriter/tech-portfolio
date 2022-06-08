@@ -16,6 +16,8 @@ Thank you!
 
 **Mary**
 
+## 💌 My socials
+
 [Online CV](https://marytanaelwriter.com/)/ [GitHub](https://github.com/marytanaelwriter)/ [LinkedIn](https://www.linkedin.com/in/marytanaelwriter/)/  [Email](mailto:marytanaelwriter@gmail.com)
 
 ## 📍 Navigation
