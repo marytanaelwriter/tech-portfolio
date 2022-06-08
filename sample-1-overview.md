@@ -25,6 +25,7 @@ The document also orients other IT teams on their involvement in the runbook cre
 ## 📍 Navigation
 
 [Homepage](README.md)  
+[About me](about-me.md)  
 **Sample 1: Process document**  
 [Sample 2: Installation guide](sample-2-overview.md)  
 [Sample 3: How-to guide](sample-3-overview.md)
