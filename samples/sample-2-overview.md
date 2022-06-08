@@ -1,5 +1,5 @@
 
-# Sample 2: Installation-guide
+# Sample 2: Installation guide
 
 ## 💼 Project title
 
