@@ -34,4 +34,4 @@ Thank you!
 [LinkedIn](https://www.linkedin.com/in/marytanaelwriter/)/ 
 [Online CV](https://marytanaelwriter.com/)/ 
 [GitHub](https://github.com/marytanaelwriter)/ 
-[Codecademy](https://marytanaelwriter.github.io/)
+[Codecademy](https://www.codecademy.com/profiles/annewrites)
