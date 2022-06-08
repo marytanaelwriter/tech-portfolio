@@ -24,7 +24,7 @@ The document also orients other IT teams on their involvement in the runbook cre
 
 ---
 
-# 📍 Navigation
+## 📍 Navigation
 
 [Back to the overview page](overview.md)  
 [Sample 2: Installation guide](sample-2-overview.md)  
