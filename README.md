@@ -1,4 +1,4 @@
-## 📄🖊️💻✨ Mary Antonette Tanael's Technical Writing Portfolio
+## 📄 Overview
 
 Hello!
 
