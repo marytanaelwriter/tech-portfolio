@@ -1,3 +1,5 @@
+## 📄🖊️💻✨ Mary's Technical Writing Portfolio
+
 Hello!
 
 Thank you for your interest and for taking the time to review my technical writing portfolio.
@@ -11,7 +13,7 @@ My writing samples include a process document, an installation guide, and a how-
 [Sample 2](sample-2.md)  
 [Sample 3](sample-3.md)  
 
-I hope that my technical writing portfolio gives you an insight into my tech writing skills. Please check my [online CV](https://marytanaelwriter.com) or LinkedIn profile to learn more about my qualifications.
+I hope that my technical writing portfolio gives you an insight into my tech writing skills. Please check my [online CV](https://marytanaelwriter.com) or [LinkedIn profile](https://www.linkedin.com/in/marytanaelwriter) to learn more about my qualifications.
 
 Thank you!
 
