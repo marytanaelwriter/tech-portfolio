@@ -22,7 +22,7 @@ The document also orients other IT teams on their involvement in the runbook cre
 
 ### [Click here to read the document](sample-1.md)
 
-## 📍 Navigation
+## 📍 Site navigation
 
 [Overview](README.md)  
 [About me](about-me.md)  
