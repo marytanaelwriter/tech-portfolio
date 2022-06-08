@@ -1,4 +1,4 @@
-## 📄🖊️💻✨ Mary's Technical Writing Portfolio
+## 📄🖊️💻✨ Mary Antonette Tanael's Technical Writing Portfolio
 
 Hello!
 
@@ -10,12 +10,16 @@ Since I recently transitioned to the IT industry, my tech writing experience is 
 
 My writing samples include a process document, an installation guide, and a how-to guide. I’m currently working on a frequently asked questions (FAQs) page and a video script, and I plan to include them here once I finish.
 
-[Sample 1: Process document](samples/sample-1-overview.md)  
-[Sample 2: Installation guide](samples/sample-2-overview.md)  
-[Sample 3: How-to guide](samples/sample-3-overview.md)  
-
 I hope that my technical writing portfolio gives you an insight into my tech writing skills. Please check my [online CV](https://marytanaelwriter.com) or [LinkedIn profile](https://www.linkedin.com/in/marytanaelwriter) to learn more about my qualifications.
 
 Thank you!
 
 Mary
+
+---
+
+## 📍 Navigation
+
+[Sample 1: Process document](samples/sample-1-overview.md)  
+[Sample 2: Installation guide](samples/sample-2-overview.md)  
+[Sample 3: How-to guide](samples/sample-3-overview.md)  
