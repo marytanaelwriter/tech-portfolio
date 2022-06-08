@@ -18,7 +18,7 @@ To jumpstart the documentation process, a Senior Technical Writer drafts a proce
 
 The target audience of this process document is Pentagon Health's current and future Technical Writers. It serves as their onboarding guide for creating a process runbook for existing business services.
 
-The document also orients other IT teams on their involvement in the runbook creation process, especially what help and materials they need to provide.
+The document also orients other IT teams on their involvement in the runbook creation process, especially the help, materials, and deliverables they need to provide.
 
 ### [Click here to read the document](sample-1.md)
 
