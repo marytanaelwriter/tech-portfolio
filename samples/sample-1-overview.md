@@ -26,6 +26,6 @@ The process document is written for Pentagon Health's current and future Technic
 
 ## Navigation
 
-[Back to the overview page](overview.md)
-[Sample 2: Installation guide](sample-2-overview.md)
+[Back to the overview page](overview.md)  
+[Sample 2: Installation guide](sample-2-overview.md)  
 [Sample 3: How-to guide](sample-3-overview.md)
