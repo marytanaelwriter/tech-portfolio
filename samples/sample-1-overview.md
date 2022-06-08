@@ -23,4 +23,4 @@ The process document is written for Pentagon Health's current and future Technic
 ### [Click here to read the document](samples/sample-1.md)
 
 ---
-[Back to the overview page](README.md)
+[Back to the overview page](main/README.md)
