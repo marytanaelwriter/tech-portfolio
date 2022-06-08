@@ -10,7 +10,7 @@ In my previous role as a Technical Writer, I proposed a new process for the clie
 
 I decided to write a high-level process document loosely inspired by that project. This document is *not* meant to be detailed or demonstrate an in-depth understanding of ITSM (IT Service Management) or ITIL (IT Infrastructure Library) best practices. Instead, I've created it to provide an insight into my writing abilities. I tried to keep it short and straightforward.
 
-For my first writing sample, I wrote a process document for Pentagon Health, a fictional healthcare company in the Philippines. They have several existing business services but no documents explaining how to run them. Pentagon Health hired Technical Writers to fill in the gap.
+For my first writing sample, I wrote a process document for Pentagon Health, a fictional healthcare company in the Philippines. They have several existing business services but no documents explaining how the IT teams and operators run them. Pentagon Health hired Technical Writers to fill in the gap.
 
 To jumpstart the documentation process, a Senior Technical Writer drafts a process document detailing how to create a business service runbook. It establishes a standard operating procedure for preparing the runbook and will serve as a reference for other Technical Writers.
 
