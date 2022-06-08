@@ -30,4 +30,8 @@ Thank you!
 
 ## 💌 My socials
 
-[Online CV](https://marytanaelwriter.com/)/ [GitHub](https://github.com/marytanaelwriter)/ [LinkedIn](https://www.linkedin.com/in/marytanaelwriter/)/  [Email](mailto:marytanaelwriter@gmail.com)
+[Email](mailto:marytanaelwriter@gmail.com)/ 
+[LinkedIn](https://www.linkedin.com/in/marytanaelwriter/)/ 
+[Online CV](https://marytanaelwriter.com/)/ 
+[GitHub](https://github.com/marytanaelwriter)/ 
+[Codecademy](https://marytanaelwriter.github.io/)
