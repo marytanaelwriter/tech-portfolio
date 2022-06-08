@@ -20,7 +20,7 @@ The target audience of this process document is Pentagon Health's current and fu
 
 The document also orients other IT teams on their involvement in the runbook creation process, especially what help and materials they need to provide.
 
-### [Click here to read the document](samples/sample-1.md)
+### [Click here to read the document](sample-1.md)
 
 ## 📍 Navigation
 
