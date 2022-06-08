@@ -15,9 +15,9 @@
 
 ### [Click here to read the document](sample-2.md)
 
-## 📍 Navigation
+## 📍 Site navigation
 
-[Homepage](README.md)  
+[Overview](README.md)  
 [About me](about-me.md)     
 [Sample 1: Process document](sample-1-overview.md)   
 **Sample 2: Installation guide**  
