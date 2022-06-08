@@ -10,6 +10,11 @@ I'm actively seeking technical writing opportunities where I can leverage my wri
 
 I'm a lifelong learner, too. In my free time, I love reading and learning new things. Nowadays, I'm self-studying Python and trying to learn as much as I can about programming and computer science in general. Coding is not only a newfound hobby but also a way for me to gain technical knowledge that may be useful in my future roles.
 
+## 💌 My socials
+
+[Online CV](https://marytanaelwriter.com/)/ [GitHub](https://github.com/marytanaelwriter)/[LinkedIn](https://www.linkedin.com/in/marytanaelwriter/)/ [Email](mailto:marytanaelwriter@gmail.com)
+
+
 ## 📍 Navigation
 
 [Back to the overview page](README.md)  
