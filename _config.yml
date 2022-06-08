@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: 📄🖊️💻✨
-description: | 
-  Hi, it's Mary Antonette Tanael.   /n
+description: """ 
+  Hi, it's Mary Antonette Tanael.
   Welcome to my technical writing portfolio. 
+  """
 logo: logo-writer-2.png
