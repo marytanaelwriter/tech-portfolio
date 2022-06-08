@@ -3,10 +3,16 @@ title: 📄🖊️💻✨
 description: | 
   Hi, it's Mary Antonette Tanael. 
   Welcome to my technical writing portfolio.
+
+Heading 2: Site navigation
+  <a href="https://marytanaelwriter.github.io/portfolio/about-me.html">About me</a>
+  <a href="https://marytanaelwriter.github.io/portfolio/sample-1-overview.html">Sample 1: Process document</a>
+  <a href="https://marytanaelwriter.github.io/portfolio/sample-2-overview.html">Sample 2: Process document</a>
+  <a href="https://marytanaelwriter.github.io/portfolio/sample-3-overview.html">Sample 3: Process document</a> 
   
- Heading 2: Site navigation
-  [About me](https://marytanaelwriter.github.io/portfolio/about-me.html)  
-  [Sample 1: Process document](https://marytanaelwriter.github.io/portfolio/sample-1-overview.html)  
-  [Sample 2: Installation guide](https://marytanaelwriter.github.io/portfolio/sample-2-overview.html)  
-  [Sample 3: How-to guide](https://marytanaelwriter.github.io/portfolio/sample-3-overview.html)  
+#Heading 2: Site navigation
+#[About me](https://marytanaelwriter.github.io/portfolio/about-me.html)  
+#[Sample 1: Process document](https://marytanaelwriter.github.io/portfolio/sample-1-overview.html)  
+#[Sample 2: Installation guide](https://marytanaelwriter.github.io/portfolio/sample-2-overview.html)  
+#[Sample 3: How-to guide](https://marytanaelwriter.github.io/portfolio/sample-3-overview.html)  
 #logo: logo-writer2.png
