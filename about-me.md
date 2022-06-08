@@ -10,13 +10,14 @@ I'm actively seeking technical writing opportunities where I can leverage my wri
 
 I'm a lifelong learner, too. In my free time, I love reading and learning new things. Nowadays, I'm self-studying Python and trying to learn as much as I can about programming and computer science in general. Coding is not only a newfound hobby but also a way for me to gain technical knowledge that may be useful in my future roles.
 
-## 📍 Navigation
+---
+
+## 📍 Site navigation
 
 [Back to the overview page](README.md)  
-[Sample 1: Process document](samples/sample-1-overview.md)  
-[Sample 2: Installation guide](samples/sample-2-overview.md)  
-[Sample 3: How-to guide](samples/sample-3-overview.md)  
-
+[Sample 1: Process document](sample-1-overview.md)  
+[Sample 2: Installation guide](sample-2-overview.md)  
+[Sample 3: How-to guide](sample-3-overview.md)  
 
 ## 💌 My socials
 
