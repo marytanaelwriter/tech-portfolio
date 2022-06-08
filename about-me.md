@@ -14,7 +14,7 @@ I'm a lifelong learner, too. In my free time, I love reading and learning new th
 
 ## 📍 Site navigation
 
-[Back to the overview page](README.md)  
+[Homepage](README.md)  
 [Sample 1: Process document](sample-1-overview.md)  
 [Sample 2: Installation guide](sample-2-overview.md)  
 [Sample 3: How-to guide](sample-3-overview.md)  
