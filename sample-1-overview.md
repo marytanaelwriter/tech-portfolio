@@ -32,4 +32,8 @@ The document also orients other IT teams on their involvement in the runbook cre
 
 ## 💌 My socials
 
-[Online CV](https://marytanaelwriter.com/)/ [GitHub](https://github.com/marytanaelwriter)/ [LinkedIn](https://www.linkedin.com/in/marytanaelwriter/)/  [Email](mailto:marytanaelwriter@gmail.com)
+[Email](mailto:marytanaelwriter@gmail.com)/ 
+[LinkedIn](https://www.linkedin.com/in/marytanaelwriter/)/ 
+[Online CV](https://marytanaelwriter.com/)/ 
+[GitHub](https://github.com/marytanaelwriter)/ 
+[Codecademy](https://www.codecademy.com/profiles/annewrites)
