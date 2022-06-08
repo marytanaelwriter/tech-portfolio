@@ -18,5 +18,7 @@ To jumpstart the documentation process, a Senior Technical Writer drafts a proce
 
 The process document is written for Pentagon Health's current and future Technical Writers. It serves as their onboarding guide for creating a process runbook for existing business services. The document also orients other IT teams on their involvement in the runbook creation process. It will also give other internal team members an idea of their involvement in the runbook creation process, especially what help and materials they need to provide.
 
+### [Click here to read the document](sample-1.md)
+
 ---
 [Back to the overview page](README.md)
