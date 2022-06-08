@@ -22,8 +22,6 @@ The document also orients other IT teams on their involvement in the runbook cre
 
 ### [Click here to read the document](samples/sample-1.md)
 
----
-
 ## 📍 Navigation
 
 [Back to the overview page](overview.md)  
