@@ -18,5 +18,6 @@
 ## 📍 Navigation
 
 [Homepage](README.md)  
-[Sample 1: Process document](sample-1-overview.md)  
+[Sample 1: Process document](sample-1-overview.md)   
+**Sample 2: Installation guide**  
 [Sample 3: How-to guide](sample-3-overview.md)
