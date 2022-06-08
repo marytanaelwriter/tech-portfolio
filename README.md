@@ -1,4 +1,6 @@
-## Mary's Tech Writing Portfolio
+# Mary's Tech Writing Portfolio
+
+## 📄 Overview
 
 Hello!
 
@@ -20,7 +22,7 @@ Thank you!
 
 ## 📍 Site navigation
 
-**Homepage**   
+**Overview**   
 [About me](about-me.md)  
 [Sample 1: Process document](sample-1-overview.md)  
 [Sample 2: Installation guide](sample-2-overview.md)  
