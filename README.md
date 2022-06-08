@@ -14,9 +14,7 @@ I hope that my technical writing portfolio gives you an insight into my tech wri
 
 Thank you!
 
-Mary
-
----
+**Mary**
 
 ## 📍 Navigation
 
