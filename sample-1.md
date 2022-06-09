@@ -18,6 +18,7 @@
 	- [Step 7: Test](#step-7-test)
 	- [Step 8: Approve](#step-8-approve)
 - [Next steps](#next-steps)
+- [Appendix](#appendix)
 
 ## Introduction
 
@@ -94,7 +95,7 @@ During this step, you will review:
 - The **Business Service Runbook Template**, and
 - The **Business Service Runbook Creation Tracker**. 
 
-You will go through the available documents with the tracker in mind. You will also have to update the tracker as you review the documents. For more information, refer to [Appendix A: Runbook Creation Tracker]().
+You will go through the available documents with the tracker in mind. You will also have to update the tracker as you review the documents. For more information, refer to [Appendix A: Business Service Runbook Creation Tracker](#appendix-a-business-service-runbook-creation-tracker).
 
 1. Gather and organize all the documentation and reference materials you have obtained. 
 2. Review the obtained documents, the latest versions of the business service runbook template, and the runbook creation tracker.
@@ -157,8 +158,8 @@ After revising and editing, the second draft must be reviewed by the (1) assigne
 
 1. Send the second draft to the team and the SMEs. 
 2. Give them a deadline to go over the document.
-	2.1 If they are satisfied with the document, you can proceed to **Step 7: Test**.
-	2.2 If not, they should return the document with their comments and feedback.
+	2.1 If they are satisfied with the document, you can proceed to [Step 7: Test](#step-7-test).      
+	2.2 If not, they should return the document with their comments and feedback.   
 3. Repeat the previous step until they are satisfied with your output.
 
 ### Step 7: Test
@@ -171,8 +172,8 @@ An effective business service runbook should allow the operators to carry out va
 2. Give them a deadline to test the runbook.
 3. Once the operators are done testing the runbook, schedule a call or meeting with them.
 4. During the meeting, ask for their input on the runbook and their overall experience using it.
-	4.1 If the operators are satisfied with the runbook, you can proceed to **Step 8: Approve**.
-	4.2 If not, proceed to the following step.
+	4.1 If the operators are satisfied with the runbook, you can proceed to [Step 8: Approve](#step-8-approve).   
+	4.2 If not, proceed to the following step.   
 5. If the operators are not satisfied or you feel that you can still update the draft, revise and edit the runbook draft based on the feedback and meeting discussions.
 6. Repeat the previous step until the runbook draft is deemed clear, accessible, and usable.
 
@@ -192,3 +193,23 @@ Once the key individuals have accomplished the sign-off sheet, then congratulati
 Once approved, the business service runbook will officially be handed over to the Release Manager, who is in charge of the deployment stage.
 
 After the runbook has been released to the IT department, the responsibility for updating and maintaining the business service runbook falls to the Application Owner. The team may request writing, editing, and formatting support from you now and then.
+
+## Appendix
+
+### Appendix A: Business Service Runbook Creation Tracker
+
+## 📍 Site navigation
+
+[Overview](README.md)  
+[About me](about-me.md)  
+**Sample 1: Process document**  
+[Sample 2: Installation guide](sample-2-overview.md)  
+[Sample 3: How-to guide](sample-3-overview.md)
+
+## 💌 My socials
+
+[Email](mailto:marytanaelwriter@gmail.com)/ 
+[LinkedIn](https://www.linkedin.com/in/marytanaelwriter/)/ 
+[Online CV](https://marytanaelwriter.com/)/ 
+[GitHub](https://github.com/marytanaelwriter)/ 
+[Codecademy](https://www.codecademy.com/profiles/annewrites)
