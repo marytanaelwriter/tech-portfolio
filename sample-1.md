@@ -1,6 +1,24 @@
 
 # Runbook creation process for existing business services
 
+## Table of contents
+
+- [Introduction](#introduction)
+- [Before you begin](#before-you-begin)
+	- [Assumptions](#assumptions)
+	- [Limitations](#limitations) 
+	- [About this task](#about-this-task)
+- [Procedure](#procedure)
+	- [Step 1: Plan](#step-1-plan)
+	- [Step 2: Gather information](#step-2-gather-information)
+	- [Step 3: Write](#step-3-write)
+	- [Step 4: First review](#step-4-first-review)
+	- [Step 5: Revise and edit](#step-5-revise-and-edit)
+	- [Step 6: Second review](#step-6-second-and-overview)
+	- [Step 7: Test](#step-7-test)
+	- [Step 8: Approve](#step-8-approve)
+- [Next steps](#next-steps)
+
 ## Introduction
 
 The purpose of this document is to provide an overview of the runbook creation process for Pentagon Health's existing business services.
