@@ -3,12 +3,12 @@
 
 ## Table of contents
 
-- [Introduction](#introduction)
-- [Before you begin](#before-you-begin)
+[Introduction](#introduction)
+[Before you begin](#before-you-begin)
 	- [Assumptions](#assumptions)
 	- [Limitations](#limitations) 
 	- [About this task](#about-this-task)
-- [Procedure](#procedure)
+[Procedure](#procedure)
 	- [Step 1: Plan](#step-1-plan)
 	- [Step 2: Gather information](#step-2-gather-information)
 	- [Step 3: Write](#step-3-write)
@@ -17,8 +17,8 @@
 	- [Step 6: Second review](#step-6-second-and-overview)
 	- [Step 7: Test](#step-7-test)
 	- [Step 8: Approve](#step-8-approve)
-- [Next steps](#next-steps)
-- [Appendix](#appendix)
+[Next steps](#next-steps)
+[Appendix](#appendix)
 
 ## Introduction
 
@@ -194,9 +194,7 @@ Once approved, the business service runbook will officially be handed over to th
 
 After the runbook has been released to the IT department, the responsibility for updating and maintaining the business service runbook falls to the Application Owner. The team may request writing, editing, and formatting support from you now and then.
 
-## Appendix
-
-### Appendix A: Business Service Runbook Creation Tracker
+### [Back to top](#runbook-creation-process-for-existing-business-services)
 
 ## 📍 Site navigation
 
